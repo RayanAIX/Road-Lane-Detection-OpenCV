@@ -10,7 +10,7 @@ This computer vision project detects road lane lines from a dashcam driving vide
 <video src="https://github.com/user-attachments/assets/0b14c4a3-f1c7-417f-bb34-58b8f2309ed5" width="400" controls></video>
 
 ### 🔸 Output Video with Lane Detection  
-<video src="https://github.com/user-attachments/assets/02fd1d6e-776c-437a-92cb-83c50d1acff4" width="400" controls></video>
+<video src="https://github.com/user-attachments/assets/a0d5acb2-529b-40c5-9548-52e2c5852ec6" width="400" controls></video>
 
 ## 📹 Input Video
 
