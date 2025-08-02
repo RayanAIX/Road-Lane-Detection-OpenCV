@@ -9,13 +9,12 @@ This computer vision project detects road lane lines from a dashcam driving vide
 ### 🔹 Original Input Video  
 Footage of a car driving on a clear lane — used as input.
 
-[![Input Video](https://user-images.githubusercontent.com/00000000/input-thumbnail.jpg)](https://user-images.githubusercontent.com/00000000/solidWhiteRight.mp4)
+🎬 [Watch Input Video](https://user-images.githubusercontent.com/your-id/solidWhiteRight.mp4)
 
 ### 🔸 Output Video with Lane Detection  
 The same video with overlaid lane lines using OpenCV.
 
-[![Output Video](https://user-images.githubusercontent.com/00000000/output-thumbnail.jpg)](https://user-images.githubusercontent.com/00000000/lane_detected_output.mp4)
-
+🎬 [Watch Output Video](https://user-images.githubusercontent.com/your-id/lane_detected_output.mp4)
 
 ---
 
