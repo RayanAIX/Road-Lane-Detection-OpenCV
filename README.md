@@ -12,6 +12,9 @@ This computer vision project detects road lane lines from a dashcam driving vide
 ### 🔸 Output Video with Lane Detection  
 <video src="https://github.com/user-attachments/assets/a0d5acb2-529b-40c5-9548-52e2c5852ec6" width="400" controls></video>
 
+## 🔴 Live Demo
+👉 Try the model on Streamlit: [Road Lane Detection App](https://road-lane-detection-opencv.streamlit.app)
+
 ## 📹 Input Video
 
 - **File:** `solidWhiteRight.mp4`  
