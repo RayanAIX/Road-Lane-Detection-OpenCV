@@ -1,3 +1,6 @@
 streamlit
 opencv-python-headless
 numpy
+git add streamlit_app/requirements.txt
+git commit -m "Add OpenCV dependency"
+git push
