@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+numpy
+git add requirements.txt
+git commit -m "Move requirements.txt to root for Streamlit"
+git push
