@@ -18,6 +18,8 @@ This computer vision project detects road lane lines from a dashcam driving vide
 - **Source:** [Udacity Self-Driving Car Dataset](https://github.com/udacity/CarND-LaneLines-P1)
 - Clean white-lane driving footage recorded in daylight
 
+---
+
 ## 🔴 Live Demo
 👉 Try the model on Streamlit: [Road Lane Detection App](https://road-lane-detection-opencv-qfwagy6zxuj8zkuaspkwu4.streamlit.app/)
 
